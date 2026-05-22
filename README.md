@@ -11,7 +11,7 @@
 ## 🚀 Key Features
 
 * **Zero-Disk Footprint:** Boots 100% into RAM. Once you pull the USB drive or power down, your host system leaves absolutely zero forensic trace.
-* **Maxized Energy Efficiency:** Spin-down hard drives and lower your clock cycles. ClawCore runs only the bare essentials—eliminating background telemetry, UI bloating, and heavy cloud synchronization overhead.
+* **Maximized Energy Efficiency:** Spin-down hard drives and lower your clock cycles. ClawCore runs only the bare essentials—eliminating background telemetry, UI bloating, and heavy cloud synchronization overhead.
 * **Sandboxed Bash Execution:** NanoClaw acts as an integrated system agent, executing self-directed bash scripts safely inside an isolated environment.
 * **Air-Gapped & Secure:** Works entirely offline. Your files, documents, and prompts are processed locally through embedded quantized Large Language Models.
 
