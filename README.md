@@ -37,7 +37,7 @@ You can compile your own custom `clawcore_live.iso` file using any Linux environ
 Clone this repository and execute the bootstrap script. It automatically pulls down the micro-kernel framework, compiles node environments, attaches NanoClaw, fetches your LLM, and builds the bootable media.
 
 ```bash
-git clone [https://github.com/yourusername/clawcore-linux.git](https://github.com/yourusername/clawcore-linux.git)
+git clone [https://github.com/jason-sia/clawcore-linux.git](https://github.com/yourusername/clawcore-linux.git)
 cd clawcore-linux
 chmod +x build_iso.sh
 ./build_iso.sh
